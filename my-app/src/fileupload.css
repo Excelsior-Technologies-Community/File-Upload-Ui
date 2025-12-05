@@ -1,0 +1,75 @@
+/* Container */
+.container {
+  width: 600px;
+  margin: 50px auto;
+  padding: 25px;
+  justify-content: center;
+  text-align: center;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.8);
+  font-family: Arial, sans-serif;
+  position: absolute;
+  top:10%;
+  left: 25%;
+}
+
+/* Heading */
+.container h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Form */
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* File Input Label */
+.file-label {
+  background: #06101f;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+/* Hide default file input */
+.file-input {
+  display: none;
+}
+
+/* Preview Box */
+.preview-box {
+  margin-top: 15px;
+}
+
+.preview-img {
+  width: 100%;
+  max-height: 250px;
+  border-radius: 10px;
+  object-fit: cover;
+  border: 2px solid #ddd;
+}
+
+/* Button */
+.submit-btn {
+  padding: 10px 15px;
+  background: #064727;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.submit-btn:hover {
+  background: #00994d;
+}
