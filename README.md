@@ -33,13 +33,19 @@ src/
 ## screenshot overview
 
 1.homepage
-![alt text](screenshot/Screenshot_5-12-2025_1623_localhost.jpeg)
+
+![Screenshot_5-12-2025_1623_localhost](https://github.com/user-attachments/assets/22cbce06-24a7-4100-add2-38a7f004be04)
+
 
 2.select image
-![alt text](screenshot/Screenshot_5-12-2025_16224_localhost.jpeg)
+
+![Screenshot_5-12-2025_16224_localhost](https://github.com/user-attachments/assets/be1e24df-9559-4c24-84d1-3033fe79ec97)
+
 
 3.file upload successfully msg
-![alt text](<Screenshot (697).png>)
+
+<img width="1366" height="768" alt="Screenshot (697)" src="https://github.com/user-attachments/assets/89d357d6-c0f8-408a-8d80-4ba550fc5986" />
+
 
 
 ### 4️⃣ Start the project
